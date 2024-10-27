@@ -22,7 +22,9 @@ export default function Home() {
                 </div>
                 <div className="h-32" />
             </div>
-
+            <div className="h-96" />
+            <span className="text-transparent block">축하합니다! 당신은 이스터애그를 찾았습니다!</span>
+            <span className="p-10 block w-full text-center text-gray-400">Copyright(C) 2024 square3ang All rights reserved</span>
         </div>
     </>);
 }
