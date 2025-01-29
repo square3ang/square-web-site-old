@@ -17,8 +17,8 @@ export default function Home() {
                 <Image src="/squaretransparent.png" alt="Square Logo" width={250} height={250} className="animate-bounce w-40 lg:w-72" />
                 <span className="text-xl lg:text-5xl drop-shadow-2xl">정사각형의 사이트에 오신 것을 환영합니다 :D</span>
                 <div className="flex mt-6 text-xl lg:text-2xl">
-                    <Link className={btnstyl} href="https://square.lrl.kr/"><ChatBubbleLeftRightIcon width={28} className="m-auto lg:inline lg:h-8" /> 얼불춤 모드 Discord</Link>
-                    <Link className={btnstyl} href="https://wiki.square3ang.kro.kr/"><MagnifyingGlassIcon width={28} className="m-auto lg:inline lg:h-8" /> 정사각위키</Link>
+                    <Link className={btnstyl} href="https://squarediscord.uzu.kr/"><ChatBubbleLeftRightIcon width={28} className="m-auto lg:inline lg:h-8" /> 얼불춤 모드 Discord</Link>
+                    <Link className={btnstyl} href="https://wiki.square3ang.kr/"><MagnifyingGlassIcon width={28} className="m-auto lg:inline lg:h-8" /> 정사각위키</Link>
                 </div>
                 <div className="h-32" />
             </div>
