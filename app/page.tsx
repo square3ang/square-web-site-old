@@ -14,7 +14,7 @@ export default function Home() {
         <div className="w-full h-full">
             <div className="h-32" />
             <div className="asdf grid mt-32 w-full place-items-center justify-center text-white">
-                <Image src="/squaretransparent.png" alt="Square Logo" width={250} height={250} className="animate-bounce w-40 lg:w-72" />
+                <img src="/squaretransparent.png" alt="Square Logo" width={250} height={250} className="animate-bounce w-40 lg:w-72" />
                 <span className="text-xl lg:text-5xl drop-shadow-2xl">정사각형의 사이트에 오신 것을 환영합니다 :D</span>
                 <div className="flex mt-6 text-xl lg:text-2xl">
                     <Link className={btnstyl} href="https://squarediscord.uzu.kr/"><ChatBubbleLeftRightIcon width={28} className="m-auto lg:inline lg:h-8" /> 얼불춤 모드 Discord</Link>
