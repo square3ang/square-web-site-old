@@ -5,7 +5,7 @@ import Link from "next/link";
 
 import TopBar from "../components/topbar";
 
-import { ChatBubbleLeftRightIcon, MagnifyingGlassIcon, BookOpenIcon } from "@heroicons/react/16/solid";
+import { ChatBubbleLeftRightIcon, MagnifyingGlassIcon, BookOpenIcon } from "@heroicons/react/24/solid";
 
 export default function Home() {
     const btnstyl = "ml-3 mr-3 p-5 bg-gray-600 text-white drop-shadow-2xl rounded-full hover:bg-gray-800 transition duration-250 hover:scale-110";
